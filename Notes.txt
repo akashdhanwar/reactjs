@@ -1,11 +1,19 @@
-JAVASCRIPT-
-let is block scoped, var is function scoped
-Arrow functions solve this keyword issue
-Spread Operator splits array or object ,Rest Operator merge list of function arguments into array
-Destructuring assign multiple variables with array/object values
-Object and Arrays are reference types, others are primitive and copy value. Do copy the values by spread operator to copy one object to other.
+1) JAVASCRIPT-
+    let is block scoped, var is function scoped
+    Arrow functions solve this keyword issue
+    Spread Operator splits array or object ,Rest Operator merge list of function arguments into array
+    Destructuring assign multiple variables with array/object values
+    Object and Arrays are reference types, others are primitive and copy value. Do copy the values by spread operator to copy one object to other.
 
-COMPONENTS & UI BUILDING-
+
+2) COMPONENTS & UI BUILDING-
+Basics -
+    npx create-react-app proj-name
+    index.js is loaded first, transforms code. public -> index.html is rendered on screen.
+    react and react-dom forms react library
+
+    Components are reusable building blocks and makes code maintainable. It is just a javascript function.
+    JSX is javascript xml. 
 
 
 EVENTS, PROPS, STATE-
