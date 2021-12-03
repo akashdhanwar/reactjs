@@ -1,0 +1,17 @@
+JAVASCRIPT-
+let is block scoped, var is function scoped
+Arrow functions solve this keyword issue
+Spread Operator splits array or object ,Rest Operator merge list of function arguments into array
+Destructuring assign multiple variables with array/object values
+Object and Arrays are reference types, others are primitive and copy value. Do copy the values by spread operator to copy one object to other.
+
+COMPONENTS & UI BUILDING-
+
+
+EVENTS, PROPS, STATE-
+STYLING-
+HOOKS-
+SIDE EFFECTS, REFS-
+CONTEXT API, REDUX-
+HTTP REQUEST, CUSTOM HOOKS-
+ROUTING, DEPLOYMENT, NEXTJS-
