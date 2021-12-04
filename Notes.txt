@@ -14,6 +14,7 @@ Basics -
 
     Components are reusable building blocks and makes code maintainable. It is just a javascript function.
     JSX is javascript xml. 
+    Data is passed as Props. Props are added as parameter in component.
 
 
 EVENTS, PROPS, STATE-
