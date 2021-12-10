@@ -14,17 +14,24 @@ Basics -
 
     Components are reusable building blocks and makes code maintainable. It is just a javascript function.
     JSX is javascript xml, a syntactic sugar. React.createElement(tag, attribute, data) was used earlier, hence only single tag can be returned in JSX
-    Data is passed as Props. Props are added as parameter in component.
+    Data is passed as Props(custom html attributes). Props are added as parameter in component.
+    In React we write Declarative syntax
 
     REUSABLE COMPONENT- Ex- Modals, etc
     Wrapper component for common styling can be used by adding {props.children} in the Wrapper component like ng-content in angular i.e. content b/w closing and opening tag
     Classes of content can be added to the wrapper component by props.className
+    
+3) EVENTS, PROPS, STATE-
 
 
-EVENTS, PROPS, STATE-
+
 STYLING-
 HOOKS-
 SIDE EFFECTS, REFS-
 CONTEXT API, REDUX-
 HTTP REQUEST, CUSTOM HOOKS-
 ROUTING, DEPLOYMENT, NEXTJS-
+
+
+
+LEC - 48
