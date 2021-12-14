@@ -22,6 +22,11 @@ Basics -
     Classes of content can be added to the wrapper component by props.className
     
 3) EVENTS, PROPS, STATE-
+  STATE-
+    To change data dynamically, state is used. These hooks must be used direct inside functions Ex - useState() 
+    useState(data) returns array containing value and updated function. hence we must use destructuring
+    useState() helps to executes the component function again hence data changes
+    Separate states for each component call hence updates only a specific called component
 
 
 
@@ -34,4 +39,4 @@ ROUTING, DEPLOYMENT, NEXTJS-
 
 
 
-LEC - 48
+LEC - 56
